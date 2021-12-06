@@ -25,5 +25,5 @@ and converts it to a word processor file (in flat XML format):
 
 ![](https://github.com/jrrk2/xmas-labels/raw/master/xmas-labels.jpg)
 
-The enclosed version only deals with 100 labels due to extreme laziness. A proper scalable solution is left to the student in the unlikely event of 
+The enclosed version only deals with 10 lines per label due to extreme laziness. A proper scalable solution is left to the student in the unlikely event of 
 anybody else but me being interested. By the time I documented that bug, it could have been fixed (by initially storing the labels in a list instead of an array)
